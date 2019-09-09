@@ -1,2 +1,2 @@
 ＃4g_pppoe_script
-linux 4g pppoel  linux
+linux 4g pppoel drive
